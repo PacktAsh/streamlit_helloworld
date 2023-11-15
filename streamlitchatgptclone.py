@@ -14,14 +14,6 @@ https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps
 This is a ChatGPT Clone using Streamlit
 """
 
-!pip install openai
-!pip install streamlit
-
-"""Store OpenAI Key Here
-=====================
-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
-"""
-
 import openai
 import streamlit as st
 
